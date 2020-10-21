@@ -230,6 +230,14 @@ figure.gallery img {
 	width: 100%;
 }
 
+figure.gallery img.small {
+     width: 40%;
+}
+
+figure.gallery span.red {
+     color: red;
+}
+
 figure.gallery figcaption {
 	margin-top: 10px;
 	font-size: 11pt;
