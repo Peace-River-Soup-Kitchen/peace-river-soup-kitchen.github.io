@@ -1,0 +1,319 @@
+.notice ol {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.notice table td,
+.notice table th {
+    padding: 0
+}
+
+.notice .c16 {
+    color: #606060 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 10.5pt !important;
+    font-family: "Arial" !important;
+    font-style: normal !important;
+}
+
+.notice .c4 {
+    color: #000000 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 20pt !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c10 {
+    padding-top: 0pt !important;
+    padding-bottom: 8pt !important;
+    line-height: 1.0791666666666666 !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: center !important;
+    height: 11pt !important;
+}
+
+.notice .c3 {
+    color: #000000 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 14pt !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c5 {
+    color: #ff0000 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 22pt !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c0 {
+    color: #333333 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 11.5pt !important;
+    font-family: "ClearSans-Regular" !important;
+    font-style: normal !important;
+}
+
+.notice .c1 {
+    color: #000000 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 11pt !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c9 {
+    color: #000000 !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-family: "Arial" !important;
+    font-style: normal !important;
+}
+
+.notice .c12 {
+    padding-top: 0pt !important;
+    padding-bottom: 12.8pt !important;
+    line-height: 1.0 !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: center !important;
+}
+
+.notice .c7 {
+    padding-top: 0pt !important;
+    padding-bottom: 0pt !important;
+    line-height: 1.0 !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: center !important;
+}
+
+.notice .c11 {
+    padding-top: 0pt !important;
+    padding-bottom: 8pt !important;
+    line-height: 1.0791666666666666 !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: center !important;
+}
+
+.notice .c20 {
+    color: #92d050 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 36pt !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c18 {
+    color: #606060 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-size: 10.5pt !important;
+    font-family: "Arial" !important;
+    font-style: normal !important;
+}
+
+.notice .c13 {
+    text-decoration-skip-ink: none !important;
+    font-size: 20pt !important;
+    -webkit-text-decoration-skip: none !important;
+    color: #0563c1 !important;
+    text-decoration: underline !important;
+}
+
+.notice .c15 {
+    color: #000000 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+    font-family: "Calibri" !important;
+    font-style: normal !important;
+}
+
+.notice .c19 {
+    text-decoration-skip-ink: none !important;
+    -webkit-text-decoration-skip: none !important;
+    color: #0563c1 !important;
+    text-decoration: underline !important;
+}
+
+.notice .c21 {
+    background-color: #ffff00 !important;
+    font-size: 22pt !important;
+    color: #ff0000 !important;
+}
+
+.notice .c6 {
+    background-color: #ffffff !important;
+    max-width: 468pt !important;
+    margin: auto !important;
+}
+
+.notice a.c17 {
+    font-weight: normal;
+    font-size: 20pt !important;
+    color: inherit !important;
+    text-decoration: inherit !important;
+}
+
+.notice a.c17b {
+    font-weight: normal;
+    font-size: 11pt !important;
+    color: inherit !important;
+    text-decoration: inherit !important;
+}
+
+.notice .c2 {
+    font-size: 16pt !important;
+}
+
+.notice .c14 {
+    font-weight: 700 !important;
+}
+
+.notice .c8 {
+    font-size: 14pt !important;
+}
+
+.notice .title {
+    padding-top: 24pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 36pt !important;
+    padding-bottom: 6pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice .subtitle {
+    padding-top: 18pt !important;
+    color: #666666 !important;
+    font-size: 24pt !important;
+    padding-bottom: 4pt !important;
+    font-family: "Georgia" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    font-style: italic !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice li {
+    color: #000000 !important;
+    font-size: 11pt !important;
+    font-family: "Calibri" !important;
+}
+
+.notice p {
+    margin: 0 !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+    font-family: "Calibri" !important;
+}
+
+.notice h1 {
+    padding-top: 24pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 24pt !important;
+    padding-bottom: 6pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice h2 {
+    padding-top: 18pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 18pt !important;
+    padding-bottom: 4pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice h3 {
+    padding-top: 14pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 14pt !important;
+    padding-bottom: 4pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice h4 {
+    padding-top: 12pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 12pt !important;
+    padding-bottom: 2pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice h5 {
+    padding-top: 11pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 11pt !important;
+    padding-bottom: 2pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
+
+.notice h6 {
+    padding-top: 10pt !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 10pt !important;
+    padding-bottom: 2pt !important;
+    font-family: "Calibri" !important;
+    line-height: 1.0791666666666666 !important;
+    page-break-after: avoid !important;
+    orphans: 2 !important;
+    widows: 2 !important;
+    text-align: left !important;
+}
