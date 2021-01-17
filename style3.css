@@ -234,6 +234,10 @@ figure.gallery img.small {
      width: 40%;
 }
 
+figure.gallery img.med {
+     width: 60%;
+}
+
 figure.gallery span.red {
      color: red;
 }
