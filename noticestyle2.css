@@ -8,6 +8,21 @@
     padding: 0
 }
 
+div.notice>div {
+    border-style: groove;
+    padding: 10px 10px;
+}
+
+.notice .c22 {
+    color: #92d050 !important;
+    font-weight: 700 !important;
+    font-size: 36pt !important;
+    font-family: "Calibri" !important;
+    text-decoration: none !important;
+    vertical-align: super !important;
+    font-style: normal !important;
+}
+
 .notice .c16 {
     color: #606060 !important;
     font-weight: 400 !important;
